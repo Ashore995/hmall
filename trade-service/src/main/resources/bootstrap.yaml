@@ -5,8 +5,8 @@ spring:
     host: 192.168.100.130 # 你的虚拟机IP
     port: 5672 # 端口
     virtual-host: /hmall # 虚拟主机
-    username: hmall # 用户名
-    password: 123 # 密码
+    username:  # 用户名
+    password:  # 密码
   profiles:
     active: dev
   cloud:
